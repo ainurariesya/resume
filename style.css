@@ -365,24 +365,23 @@ a {
     height: auto;
 }
 .edu-memory-img {
-    width: 260px;              /* KECIKKAN GAMBAR */
+    width: 260px;             
     max-width: 100%;
     height: auto;
 
-    opacity: 0.75;             /* TRANSPARENT */
+    opacity: 0.75;         
     
-    border-radius: 20px;       /* LEMBUT / ROUNDED */
+    border-radius: 20px;       
     
     box-shadow: 
-        0 10px 25px rgba(0,0,0,0.2);  /* SOFT SHADOW */
+        0 10px 25px rgba(0,0,0,0.2);  
 
-    transition: all 0.4s ease; /* ANIMATION */
+    transition: all 0.4s ease; 
 }
 
-/* Bila hover (cantik masa present 😎) */
 .edu-memory-img:hover {
-    opacity: 1;                /* Jadi clear bila hover */
-    transform: scale(1.05);    /* Zoom sikit */
+    opacity: 1;                
+    transform: scale(1.05);    
 }
 
 
@@ -554,12 +553,12 @@ a {
     color: white;
 }
 
-/* ANIMATION */
+
 @keyframes zoom {
     from { transform: scale(0.6); }
     to { transform: scale(1); }
 }
-/* CONTACT SECTION */
+
 .contact-section {
     padding: 60px 20px;
     text-align: center;
@@ -576,7 +575,7 @@ a {
     margin-bottom: 40px;
 }
 
-/* ICON GRID */
+
 .contact-icons {
     display: flex;
     justify-content: center;
@@ -584,7 +583,7 @@ a {
     flex-wrap: wrap;
 }
 
-/* ICON CARD */
+
 .contact-card {
     width: 140px;
     padding: 20px;
@@ -606,7 +605,7 @@ a {
     font-weight: bold;
 }
 
-/* HOVER EFFECT */
+
 .contact-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 15px 30px rgba(255,105,180,0.5);
@@ -637,4 +636,5 @@ footer {
 
 }
     
+
 
