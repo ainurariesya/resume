@@ -280,7 +280,7 @@ a {
     color: #cc0066;
     font-size: 18px;
     line-height: 1.6;
-    text-align: center;
+    text-align: left;
 }
 .profile-img {
     width: 200px;
@@ -622,6 +622,7 @@ footer {
 
 }
     
+
 
 
 
