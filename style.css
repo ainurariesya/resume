@@ -315,7 +315,7 @@ a {
     height: 40px;   
 }
 ul {
-  list-style-type: "♡ ";
+  list-style: "➤ ";
 }
 
 .education-item {
@@ -622,6 +622,7 @@ footer {
 
 }
     
+
 
 
 
