@@ -602,11 +602,6 @@ ul {
     box-shadow: 0 15px 30px rgba(255,105,180,0.5);
 }
 
-ul {
-list-style: none;
-padding: 0;
-}
-
 
 ul li {
 background-color: #ffffff;
@@ -627,5 +622,6 @@ footer {
 
 }
     
+
 
 
